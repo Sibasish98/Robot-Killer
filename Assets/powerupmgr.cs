@@ -84,7 +84,7 @@ public class powerupmgr : MonoBehaviour
     }
     public void spawnPowerUp()
     {
-        powerNumber = Random.Range(0, powerUpTextures.Count-1);
+        powerNumber = Random.Range(0, powerUpTextures.Count);
         powerUpCubeMat.mainTexture = powerUpTextures[powerNumber];
         //GameObject x = Instantiate(powerupcube, new Vector3(-100, 8, 40), Quaternion.identity);
         Vector3 temp = botmgr.patrolPoints[Random.Range(0, botmgr.maxPatrolPoints-1)].position;
