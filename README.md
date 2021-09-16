@@ -9,7 +9,8 @@ If they player comes in there vision, they will shoot and be alert. They will be
 Powerups pops up randomly across map for random time, the player can consume it to get special ability for limited time 😎
 Powerups like speed, robots go blind, etc.
 
-**⚠️ This Game Is Under Development And Is In Very Early Stage But Is Playable **
+⚠️**This Game Is Under Development And Is In Very Early Stage But Is Playable**
+
 
 **You can try the game by downloading the apk file in the build folder in the above repository**
 
